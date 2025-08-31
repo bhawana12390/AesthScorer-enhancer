@@ -2,8 +2,6 @@
 
 ImageBoost AI is a web application that allows you to assess and enhance the quality of your images using powerful machine learning models. Upload an image, get an initial quality score, and then see the magic happen as our AI enhances it. The application provides a clear side-by-side comparison of the original and enhanced images, along with detailed metrics on the quality improvement.
 
-![ImageBoost AI Screenshot](https://placehold.co/800x450)
-
 ## ✨ Features
 
 -   **Image Quality Assessment**: Get a numerical quality score (from 1 to 10) for any uploaded image.
