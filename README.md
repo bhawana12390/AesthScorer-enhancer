@@ -38,7 +38,7 @@ To run this project locally, you will need to set up both the backend (FastAPI) 
 The backend server is responsible for running the machine learning models to rate and enhance images.
 
 **Prerequisites:**
-- Python 3.8+
+- Python 3.11+
 - `pip` and `venv`
 
 **Installation:**
