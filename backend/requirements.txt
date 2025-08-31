@@ -1,0 +1,23 @@
+# Core FastAPI dependencies
+fastapi
+uvicorn[standard]
+python-multipart
+
+# PyTorch and torchvision
+torch==2.8.0
+torchvision
+
+# Image processing
+Pillow
+opencv-python
+numpy
+
+# Real-ESRGAN for image enhancement
+basicsr
+realesrgan
+
+# Optional dependencies
+python-dotenv
+
+# CORS support
+fastapi[all]
